@@ -24,6 +24,9 @@ NumPy
 Pycaw (for volume control)
 ### How It Works
 1.Webcam captures live video
+
 2.Hand landmarks are detected using MediaPipe
+
 3.Distance between thumb and index finger is calculated
+
 4.Volume is adjusted based on distance
